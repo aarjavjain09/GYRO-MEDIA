@@ -1,0 +1,6 @@
+{
+  "name": "AI Sales Navigator",
+    "description": "ProStudio Production Suite: A high-end production suite for video, photography, and post-production featuring 1-on-1 Discovery Call scheduling, live milestone progress tracking, asset galleries with timestamped feedback, AI negotiation, and automated invoice breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
